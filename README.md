@@ -1,5 +1,5 @@
 # 基于Python的PSO算法，以路径规划为实例。
 
-Drone 三维
+Drone.py  三维
 
-pso_path_planning 二维
+pso_path_planning.py 二维
